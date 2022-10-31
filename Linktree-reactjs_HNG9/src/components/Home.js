@@ -28,12 +28,12 @@ const Home = () => {
           className=" md:hidden absolute right-0 p-[30px]"
         />
         <p id="twitter" className="mt-[50px] font-bold mb-[30px]">
-          Onyedibe Sixtus
+          Tunmise Victor
         </p>
         <div className="Links w-full px-[20px] md:px-[50px]">
           <a
             className="h-[68px] w-full bg-gray-200 rounded flex justify-center items-center mb-[1rem] cursor-pointer text-sm md:text-lg font-medium"
-            href="https://twitter.com/Sitoaustin"
+            href="https://twitter.com/NightWalker"
             target="_blank"
             rel="noopener noreferrer"
           >
